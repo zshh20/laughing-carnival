@@ -1,2 +1,2 @@
-# laughing-carnival
-个人的无聊制作
+
+第一次做网页见谅
